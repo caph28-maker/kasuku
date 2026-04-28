@@ -1,5 +1,5 @@
-// script.js - Kasuku con Google Apps Script (versión final)
-https://script.google.com/macros/s/AKfycbzZ0ZlEiJ0BcWnxu0wCe7fYtJHy3nYKr6EuAjg2LR3tNDpr5D2b1J6QkJAGv2wpWPyWUw/exec
+// script.js - Kasuku
+const API_URL = "https://script.google.com/macros/s/AKfycbzlREhGo08zmiVGmYF4uYTR3Ct3ykHc_8YEhfVvZrKtKkAZ2Pyapr94T4bRSFoomWRX8w/exec";
 
 async function cargarTareas() {
     const contenedor = document.getElementById("tasks-list");
